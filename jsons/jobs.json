@@ -1,0 +1,2160 @@
+[
+  {
+    "_id": {
+      "$oid": "6724df486fa02b99fe3c32b3"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:01:44.875Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T07:03:54.678Z"
+    },
+    "externId": "30677",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Experience in the development of technical documentation for at least 3 years;",
+          "ru": "Опыт разработки технической документации от 3-х лет;"
+        },
+        "mandatory": true,
+        "id": "6724df486301a4d75364ee09"
+      },
+      {
+        "requirement": {
+          "en": "Atlassian (Confluence, Jira);",
+          "ru": "Atlassian (Confluence, Jira);"
+        },
+        "mandatory": true,
+        "id": "6724df486301a4d75364ee0a"
+      },
+      {
+        "requirement": {
+          "en": "GitLab;",
+          "ru": "GitLab;"
+        },
+        "mandatory": true,
+        "id": "6724df486301a4d75364ee0b"
+      },
+      {
+        "requirement": {
+          "en": "Swagger;",
+          "ru": "Swagger;"
+        },
+        "mandatory": true,
+        "id": "6724df486301a4d75364ee0c"
+      },
+      {
+        "requirement": {
+          "en": "Postman;",
+          "ru": "Postman;"
+        },
+        "mandatory": true,
+        "id": "6724df486301a4d75364ee0d"
+      },
+      {
+        "requirement": {
+          "en": "Understanding the principles of Docs as Code.",
+          "ru": "Понимание принципов Docs as Code."
+        },
+        "mandatory": true,
+        "id": "6724df486301a4d75364ee0e"
+      },
+      {
+        "requirement": {
+          "en": "Competent oral and written speech, the ability to clearly express your thoughts in writing.",
+          "ru": "Грамотная устная и письменная речь, способность четко излагать свои мысли в письменном виде."
+        },
+        "mandatory": false,
+        "id": "6724df486301a4d75364ee0f"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Support for user documentation (markdown + git);",
+          "ru": "Поддержка пользовательской документации (markdown + git);"
+        },
+        "id": "6724df486301a4d75364ee10"
+      },
+      {
+        "name": {
+          "en": "Maintaining REST API specifications (Swagger);",
+          "ru": "Ведение спецификаций REST API (Swagger);"
+        },
+        "id": "6724df486301a4d75364ee11"
+      },
+      {
+        "name": {
+          "en": "Maintaining REST API specifications (Swagger).",
+          "ru": "Ведение спецификаций REST API (Swagger)."
+        },
+        "id": "6724df486301a4d75364ee12"
+      }
+    ],
+    "description": {
+      "en": "A large Russian IT holding company. Documentation of the open platform of web applications and bots in the Messenger. !!! ASSIGNMENT FOR THE CANDIDATE: ACCORDING TO THE DATA FROM THE LINK, GIVE AN ESTIMATE OF THE PROJECT COMPLETION DATE. https://docs.google.com/document/d/1dqzTDhmSpF0J38ZS38tNw6IKwA8OIwbxAXZjprULf8c/edit?tab=t.0#heading=h.5xskgvz8a7lw Requires 1 Middle level employee and 1 Senior level employee.",
+      "ru": "Крупный российский IT холдинг. Документация открытой платформы веб-приложений и ботов в Мессенджере. !!! ЗАДАНИЕ ДЛЯ КАНДИДТА: ПО ДАННЫМ ИЗ ССЫЛКИ, ДАТЬ ОЦЕНКУ СРОКА ВЫПОЛНЕНИЯ ПРОЕКТА. https://docs.google.com/document/d/1dqzTDhmSpF0J38ZS38tNw6IKwA8OIwbxAXZjprULf8c/edit?tab=t.0#heading=h.5xskgvz8a7lw Требуется 1 сотрудник уровня Middle и 1 сотрудник уровня Senior."
+    },
+    "industry": null,
+    "specialization": null,
+    "grades": [
+      "6641efd5ac0c70406a0eb262",
+      "6641efe5ac0c70406a0eb279"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 2,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724df486301a4d75364ee13"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "Technical Writer",
+      "ru": "Технический писатель"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6724e0616fa02b99fe3c33b7"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:06:24.827Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T07:03:07.694Z"
+    },
+    "externId": "30652",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Experience working with the following technology stack: Go (chi, phx, verify, gocql, elasticsearch), databases: PostgreSQL, Cassandra, ClickHouse, internal libraries of the company;",
+          "ru": "Опыт работы со следующим технологическим стеком: Go (chi, pgx, testify, gocql, elasticsearch), базы данных: PostgreSQL, Cassandra, ClickHouse, внутренние библиотеки компании;"
+        },
+        "mandatory": true,
+        "id": "6724e0616301a4d75364ee23"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with high-load systems;",
+          "ru": "Опыт работы с высоконагруженными системами;"
+        },
+        "mandatory": true,
+        "id": "6724e0616301a4d75364ee24"
+      },
+      {
+        "requirement": {
+          "en": "Ability to work with open-source projects;",
+          "ru": "Умение работать с open-source проектами;"
+        },
+        "mandatory": true,
+        "id": "6724e0616301a4d75364ee25"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of e-mail protocols (SMTP, IMAP);",
+          "ru": "Знание протоколов электронной почты (SMTP, IMAP);"
+        },
+        "mandatory": true,
+        "id": "6724e0616301a4d75364ee26"
+      },
+      {
+        "requirement": {
+          "en": "Performance optimization skills.",
+          "ru": "Навыки оптимизации производительности."
+        },
+        "mandatory": true,
+        "id": "6724e0616301a4d75364ee27"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Migrating data from Microsoft Exchange;",
+          "ru": "Миграция данных из Microsoft Exchange;"
+        },
+        "id": "6724e0616301a4d75364ee28"
+      },
+      {
+        "name": {
+          "en": "Architecture design for corporate needs;",
+          "ru": "Проектирование архитектуры для корпоративных нужд;"
+        },
+        "id": "6724e0616301a4d75364ee29"
+      },
+      {
+        "name": {
+          "en": "Implementation of advanced functionality:",
+          "ru": "Реализация расширенного функционала:"
+        },
+        "id": "6724e0616301a4d75364ee2a"
+      },
+      {
+        "name": {
+          "en": "Access rights management.",
+          "ru": "Управление правами доступа."
+        },
+        "id": "6724e0616301a4d75364ee2b"
+      },
+      {
+        "name": {
+          "en": "Setting up email processing rules.",
+          "ru": "Настройка правил обработки электронной почты."
+        },
+        "id": "6724e0616301a4d75364ee2c"
+      },
+      {
+        "name": {
+          "en": "Quotas and restrictions.",
+          "ru": "Квотирование и ограничения."
+        },
+        "id": "6724e0616301a4d75364ee2d"
+      },
+      {
+        "name": {
+          "en": "Search through all company emails;",
+          "ru": "Поиск по всем письмам компании;"
+        },
+        "id": "6724e0616301a4d75364ee2e"
+      },
+      {
+        "name": {
+          "en": "Integration with Active Directory and LDAP;",
+          "ru": "Интеграция с Active Directory и LDAP;"
+        },
+        "id": "6724e0616301a4d75364ee2f"
+      },
+      {
+        "name": {
+          "en": "Development of calendar and scheduling functions.",
+          "ru": "Разработка функций календаря и планирования."
+        },
+        "id": "6724e0616301a4d75364ee30"
+      }
+    ],
+    "description": {
+      "en": "- - Creating a corporate email solution for the B2B sector; - Filling the niche vacated after Microsoft's exit from Russia; - Adaptation and improvement of functionality of existing open-source solutions. The project includes work on complex technical tasks in the field of distributed systems and processing large amounts of data.",
+      "ru": "- Создание корпоративного почтового решения для B2B сектора; - Заполнение ниши, освободившейся после выхода Microsoft из России; - Адаптирование и улучшение функциональности существующих open-source решений. Проект включает работу над сложными техническими задачами в области распределенных систем и обработки больших массивов данных."
+    },
+    "industry": null,
+    "specialization": "671013f6bda14420a6b7a9ef",
+    "grades": [
+      "6641efe5ac0c70406a0eb279"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724e0616301a4d75364ee31"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "Golang developer",
+      "ru": "Golang разработчик"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6724e1bf6fa02b99fe3c33ea"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:12:15.856Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T07:01:01.905Z"
+    },
+    "externId": "30526",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "more than 4 years of experience with React;",
+          "ru": "более 4 лет опыта работы с React; "
+        },
+        "mandatory": true,
+        "id": "6724e1bf74d610d7531c2313"
+      },
+      {
+        "requirement": {
+          "en": "more than 1 year of experience with Redux;",
+          "ru": "более 1 года опыта работы с Redux;"
+        },
+        "mandatory": true,
+        "id": "6724e1bf74d610d7531c2314"
+      },
+      {
+        "requirement": {
+          "en": "More than 3 years of experience in the field of TS;",
+          "ru": "Более 3-х лет опыта работы в сфере TS;"
+        },
+        "mandatory": true,
+        "id": "6724e1bf74d610d7531c2315"
+      },
+      {
+        "requirement": {
+          "en": "more than 1 year of experience working with;",
+          "ru": "более 1 года опыта работы с;"
+        },
+        "mandatory": true,
+        "id": "6724e1bf74d610d7531c2316"
+      },
+      {
+        "requirement": {
+          "en": "more than 4 years of experience working with style components/preprocessors;",
+          "ru": "более 4 лет опыта работы со стилевыми компонентами/препроцессорами;"
+        },
+        "mandatory": true,
+        "id": "6724e1bf74d610d7531c2317"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with HTML;",
+          "ru": "Опыт работы с HTML;"
+        },
+        "mandatory": true,
+        "id": "6724e1bf74d610d7531c2318"
+      },
+      {
+        "requirement": {
+          "en": "Understanding the principles of FP, SOLID, BEM;",
+          "ru": "Понимание принципов FP, SOLID, BEM;"
+        },
+        "mandatory": true,
+        "id": "6724e1bf74d610d7531c2319"
+      },
+      {
+        "requirement": {
+          "en": "Experience in system design and architecture creation;",
+          "ru": "Опыт в проектировании систем и создании архитектуры;"
+        },
+        "mandatory": true,
+        "id": "6724e1bf74d610d7531c231a"
+      },
+      {
+        "requirement": {
+          "en": "Experience in developing a UI kit.",
+          "ru": "Опыт разработки UI-kit."
+        },
+        "mandatory": true,
+        "id": "6724e1bf74d610d7531c231b"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Development of new big data processing tools and frameworks;",
+          "ru": "Разработка новых инструментов и фреймворков обработки больших данных;"
+        },
+        "id": "6724e1bf74d610d7531c231c"
+      },
+      {
+        "name": {
+          "en": "Preparation for the output of internal solutions in open source.",
+          "ru": "Подготовка к выводу внутренних решений в open-source."
+        },
+        "id": "6724e1bf74d610d7531c231d"
+      }
+    ],
+    "description": {
+      "en": "The MLOps Platform project for a large telecommunications company.",
+      "ru": "Проект MLOps Platform для крупной телекоммуникационной компании."
+    },
+    "industry": null,
+    "specialization": null,
+    "grades": [
+      "6641efd5ac0c70406a0eb262",
+      "67233918e815baaca58a8e96"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724e1bf74d610d7531c231e"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "React developer",
+      "ru": "React разработчик"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6724e2186fa02b99fe3c33fc"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:13:44.836Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T07:00:35.803Z"
+    },
+    "externId": "30564",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Knowledge of the architecture and operation of Linux systems;",
+          "ru": "Знания архитектуры и принципа работы Linux систем;"
+        },
+        "mandatory": true,
+        "id": "6724e21874d610d7531c232c"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of Perl, Python, Ruby, Bash programming languages;",
+          "ru": "Знание языков программирования Perl, Python, Ruby, Bash;"
+        },
+        "mandatory": true,
+        "id": "6724e21874d610d7531c232d"
+      },
+      {
+        "requirement": {
+          "en": "Linux/Unix utility skills;",
+          "ru": "Навыки работы с утилитами Linux/Unix;"
+        },
+        "mandatory": true,
+        "id": "6724e21874d610d7531c232e"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of package managers (rpm/yum) and their packages;",
+          "ru": "Знания устройства пакетных менеджеров (rpm/yum) и их пакетов;"
+        },
+        "mandatory": true,
+        "id": "6724e21874d610d7531c232f"
+      },
+      {
+        "requirement": {
+          "en": "Ability to automate routine tasks;",
+          "ru": "Умение автоматизировать рутинные задачи;"
+        },
+        "mandatory": true,
+        "id": "6724e21874d610d7531c2330"
+      },
+      {
+        "requirement": {
+          "en": "Skills in building software from source;",
+          "ru": "Навыки сборки софта из исходников;"
+        },
+        "mandatory": true,
+        "id": "6724e21874d610d7531c2331"
+      },
+      {
+        "requirement": {
+          "en": "Skills in diagnosing problems and troubleshooting incidents in a production environment, writing post-mortems.",
+          "ru": "Навыки диагностики проблем и устранения инцидентов в production среде, написания post-mortems."
+        },
+        "mandatory": true,
+        "id": "6724e21874d610d7531c2332"
+      },
+      {
+        "requirement": {
+          "en": "Availability of certifications from major vendors (Microsoft, VMware, Cisco, HP, NetApp, EMC, IBM, etc.).",
+          "ru": "Наличие сертификаций основных вендоров (Microsoft, VMware, Cisco, HP, NetApp, EMC, IBM и т.д.)."
+        },
+        "mandatory": false,
+        "id": "6724e21874d610d7531c2333"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Deployment and maintenance of the Linux OS family;",
+          "ru": "Развертывание и сопровождение ОС семейства Linux;"
+        },
+        "id": "6724e21874d610d7531c2334"
+      },
+      {
+        "name": {
+          "en": "Incident management, identification and troubleshooting, identification and elimination of bottlenecks, change and configuration management;",
+          "ru": "Работа с инцидентами, идентификация и устранение проблем, выявление и устранение узких мест, управление изменениями и конфигурациями;"
+        },
+        "id": "6724e21874d610d7531c2335"
+      },
+      {
+        "name": {
+          "en": "Documenting procedures, instructions, regulations, filling the knowledge base;",
+          "ru": "Документирование процедур, инструкций, регламентов, наполнение базы знаний;"
+        },
+        "id": "6724e21874d610d7531c2336"
+      },
+      {
+        "name": {
+          "en": "Monitoring management and configuration (Zabbix, Graphana, Prometus, IMS).",
+          "ru": "Управление и настройка мониторинга (Zabbix, Graphana, Prometus, IMS)."
+        },
+        "id": "6724e21874d610d7531c2337"
+      }
+    ],
+    "description": {
+      "en": "The MLOps Platform project for a large telecommunications company.",
+      "ru": "Проект MLOps Platform для крупной телекоммуникационной компании."
+    },
+    "industry": null,
+    "specialization": "671013f6bda14420a6b7a9f4",
+    "grades": [
+      "67233918e815baaca58a8e96"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724e21874d610d7531c2338"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "DevOps",
+      "ru": "DevOps"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6724e2726fa02b99fe3c3410"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:15:14.861Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T07:00:16.277Z"
+    },
+    "externId": "30340",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Stack: 1C-Bitrix: Enterprise (Bitrix24/BUS), PHP 7.4+ , MySQL 8, Memcache, Redis, git, VueJS;",
+          "ru": "Стек: 1С-Битрикс: Enterprise (Битрикс24/БУС), PHP 7.4+ , MySQL 8, Memcache, Redis, git, VueJS;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2350"
+      },
+      {
+        "requirement": {
+          "en": "He has programming experience of 4 years or more;",
+          "ru": "Имеет опыт программирования от 4 лет;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2351"
+      },
+      {
+        "requirement": {
+          "en": "Able to assess deadlines and communicate risks, signalling a problem in a timely manner;",
+          "ru": "Умеет оценивать сроки и сообщать о рисках, вовремя сигнализировать о проблеме;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2352"
+      },
+      {
+        "requirement": {
+          "en": "Knows how to implement the required functionality of any complexity both on the basis of CMS Bitrix using in-house tools and/or API, and on pure PHP;",
+          "ru": "Знает как реализовать требуемую функциональность любой сложности как на базе CMS Битрикс используя штатные средства и/или API, так и на чистом PHP;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2353"
+      },
+      {
+        "requirement": {
+          "en": "Knows when standard tools and techniques will be ineffective;",
+          "ru": "Знает, в каких случаях стандартные инструменты и технологии будут неэффективными;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2354"
+      },
+      {
+        "requirement": {
+          "en": "Looks for inefficiencies in code/architecture/test models;",
+          "ru": "Ищет неэффективные места в коде/архитектуре/тестовых моделях;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2355"
+      },
+      {
+        "requirement": {
+          "en": "Fills out the team's technical backlog;",
+          "ru": "Пополняет технический бэклог команды;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2356"
+      },
+      {
+        "requirement": {
+          "en": "Able to read and understand other people's code;",
+          "ru": "Умеет читать и разбираться в чужом коде;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2357"
+      },
+      {
+        "requirement": {
+          "en": "Experience with BUS and/or Bitrix24 boxed version;",
+          "ru": "Опыт работы с БУС и/или Битрикс24 коробочная версия;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2358"
+      },
+      {
+        "requirement": {
+          "en": "Experience of developing systems that interact with each other;",
+          "ru": "Опыт разработки взаимодействующих между собой систем;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c2359"
+      },
+      {
+        "requirement": {
+          "en": "Strong knowledge of architectural patterns and basic principles of good code;",
+          "ru": "Уверенные знания архитектурных паттернов и базовых принципов хорошего кода;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c235a"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of the git version control system;",
+          "ru": "Знания системы контроля версии git;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c235b"
+      },
+      {
+        "requirement": {
+          "en": "Ability to work in *nix like systems;",
+          "ru": "Умение работать в *nix подобных системах;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c235c"
+      },
+      {
+        "requirement": {
+          "en": "Experience in IDE (we use PhpStorm);",
+          "ru": "Опыт работы в IDE (используем PhpStorm);"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c235d"
+      },
+      {
+        "requirement": {
+          "en": "Experience with any JS framework: React, Vue, Angular;",
+          "ru": "Опыт работы с любым JS фреймворком: React, Vue, Angular;"
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c235e"
+      },
+      {
+        "requirement": {
+          "en": "Excellent knowledge of SQL in general, experience with MySQL in particular: Query optimisation, indexes, understanding of differences between table engines, locking.",
+          "ru": "Отличные знания SQL в общем, опыт c MySQL в частности: Оптимизация запросов, работа индексов, понимание отличий между движками таблиц, блокировки."
+        },
+        "mandatory": true,
+        "id": "6724e27274d610d7531c235f"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Development and support of functionality of internal and external general banking systems;",
+          "ru": "Разработка и поддержка функциональности внутренних и внешних общебанковских систем;"
+        },
+        "id": "6724e27274d610d7531c2360"
+      },
+      {
+        "name": {
+          "en": "Digitization and automation of the company's internal business processes;",
+          "ru": "Оцифровка и автоматизация внутренних бизнес-процессов работы компании;"
+        },
+        "id": "6724e27274d610d7531c2361"
+      },
+      {
+        "name": {
+          "en": "Participation in the design and development of the architecture of projects and their components;",
+          "ru": "Участие в проектировании и разработке архитектуры проектов и их компонентов;"
+        },
+        "id": "6724e27274d610d7531c2362"
+      },
+      {
+        "name": {
+          "en": "Analysis of new requirements and design of technical solutions for them;",
+          "ru": "Анализ новых требований и проектирование технических решений для них;"
+        },
+        "id": "6724e27274d610d7531c2363"
+      },
+      {
+        "name": {
+          "en": "Development and integration of web services (REST/SOAP);",
+          "ru": "Разработка и интеграция web-сервисов (REST/SOAP);"
+        },
+        "id": "6724e27274d610d7531c2364"
+      },
+      {
+        "name": {
+          "en": "Preparation and maintenance of technical documentation.",
+          "ru": "Подготовка и ведение технической документации."
+        },
+        "id": "6724e27274d610d7531c2365"
+      }
+    ],
+    "description": {
+      "en": "An IT company. Once a week, a visit to the office at Moscow Time, as well as a remote one.",
+      "ru": "ИТ-компания. Раз в неделю посещение офиса в МСК, а так удалёнка."
+    },
+    "industry": null,
+    "specialization": "671013f7bda14420a6b7ab84",
+    "grades": [
+      "6641efe5ac0c70406a0eb279"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "flexible",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724e27274d610d7531c2366"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "Bitrix developer",
+      "ru": "Битрикс разработчик"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6724e2cd6fa02b99fe3c3424"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:16:45.765Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T06:59:05.257Z"
+    },
+    "externId": "30427",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Higher education;",
+          "ru": "Высшее образование;"
+        },
+        "mandatory": true,
+        "id": "6724e2cd74d610d7531c2377"
+      },
+      {
+        "requirement": {
+          "en": "Work experience of at least 3 years on the wall below;",
+          "ru": "Опыт работы от 3-х лет по указанному ниже стеку;"
+        },
+        "mandatory": true,
+        "id": "6724e2cd74d610d7531c2378"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of Oracle architecture and basic objects, principles of database operation;",
+          "ru": "Знание архитектуры и основных объектов Oracle, принципы работы баз данных;"
+        },
+        "mandatory": true,
+        "id": "6724e2cd74d610d7531c2379"
+      },
+      {
+        "requirement": {
+          "en": "Experience with JSON/XML;",
+          "ru": "Опыт работы с JSON/XML;"
+        },
+        "mandatory": true,
+        "id": "6724e2cd74d610d7531c237a"
+      },
+      {
+        "requirement": {
+          "en": "Experience with Git;",
+          "ru": "Опыт работы с Git;"
+        },
+        "mandatory": true,
+        "id": "6724e2cd74d610d7531c237b"
+      },
+      {
+        "requirement": {
+          "en": "Experience in developing micro service applications and knowledge of microservice architecture;",
+          "ru": "Опыт разработки микросервисных приложений и знание микросервисной архитектуры;"
+        },
+        "mandatory": true,
+        "id": "6724e2cd74d610d7531c237c"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with CamundaBPM or other BPM engines.",
+          "ru": "Опыт работы с CamundaBPM или другими BPM-движками."
+        },
+        "mandatory": true,
+        "id": "6724e2cd74d610d7531c237d"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with Platformeco;",
+          "ru": "Опыт работы с Platformeco;"
+        },
+        "mandatory": false,
+        "id": "6724e2cd74d610d7531c237e"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with Kafka;",
+          "ru": "Опыт работы с Kafka;"
+        },
+        "mandatory": false,
+        "id": "6724e2cd74d610d7531c237f"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with Redis.",
+          "ru": "Опыт работы с Redis."
+        },
+        "mandatory": false,
+        "id": "6724e2cd74d610d7531c2380"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Development, debugging, error correction and optimization of SQL queries and PL/SQL code;",
+          "ru": "Разработка, отладка, исправление ошибок и оптимизация SQL-запросов и PL/SQL кода;"
+        },
+        "id": "6724e2cd74d610d7531c2381"
+      },
+      {
+        "name": {
+          "en": "Working with data in JSON/XML formats;",
+          "ru": "Работа с данными в форматах JSON/XML;"
+        },
+        "id": "6724e2cd74d610d7531c2382"
+      },
+      {
+        "name": {
+          "en": "Participation in the formation of requirements and documentation;",
+          "ru": "Участие в формировании требований и документации;"
+        },
+        "id": "6724e2cd74d610d7531c2383"
+      },
+      {
+        "name": {
+          "en": "Using the Git Version Control system;",
+          "ru": "Использование системы контроля версий Git;"
+        },
+        "id": "6724e2cd74d610d7531c2384"
+      },
+      {
+        "name": {
+          "en": "Учет задач в соответствии с внутренними правилами компании.",
+          "ru": "Учет задач в соответствии с внутренними правилами компании."
+        },
+        "id": "6724e2cd74d610d7531c2385"
+      }
+    ],
+    "description": {
+      "en": "Camunda. Maintenance of processes, development of new ones, modification and correction of existing ones. The candidate's location is preferably Moscow (but candidates from the regions are possible)",
+      "ru": "Camunda. Сопровождение процессов, разработка новых, изменение и исправление существующих. Местоположение кандидата - желательно Москва (но возможны кандидаты из регионов)"
+    },
+    "industry": "671013f7bda14420a6b7abf8",
+    "specialization": "671013f6bda14420a6b7aab7",
+    "grades": [
+      "6641efd5ac0c70406a0eb262"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724e2cd74d610d7531c2386"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "Oracle developer",
+      "ru": "Oracle разработчик"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6724e3276fa02b99fe3c3436"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:18:15.641Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T06:58:28.245Z"
+    },
+    "externId": "30428",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Higher education;",
+          "ru": "Высшее образование;"
+        },
+        "mandatory": true,
+        "id": "6724e32774d610d7531c2397"
+      },
+      {
+        "requirement": {
+          "en": "Deep knowledge of Oracle, Postgres (working with JSON, XML, query optimization, working with large amounts of data, understanding database architecture);",
+          "ru": "Глубокие знания Oracle, Postgres (работа с JSON, XML, оптимизация запросов, работа с большими объемами данных, понимание архитектуры баз данных);"
+        },
+        "mandatory": true,
+        "id": "6724e32774d610d7531c2398"
+      },
+      {
+        "requirement": {
+          "en": "Confident JavaScript skills;",
+          "ru": "Уверенные навыки работы с JavaScript;"
+        },
+        "mandatory": true,
+        "id": "6724e32774d610d7531c2399"
+      },
+      {
+        "requirement": {
+          "en": "The ability to work with swagger;",
+          "ru": "Умение работать с развязностью;"
+        },
+        "mandatory": true,
+        "id": "6724e32774d610d7531c239a"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of the principles of the Rest API and work on the HTTP/HTTPS protocol;",
+          "ru": "Знание принципов работы Rest API и работа по протоколу HTTP/HTTPS;"
+        },
+        "mandatory": true,
+        "id": "6724e32774d610d7531c239b"
+      },
+      {
+        "requirement": {
+          "en": "Experience in developing similar projects for at least 2 years;",
+          "ru": "Опыт разработки аналогичных проектов не менее 2-х лет;"
+        },
+        "mandatory": true,
+        "id": "6724e32774d610d7531c239c"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of the basics of software development, software lifecycle, requirements management;",
+          "ru": "Знание основ разработки программного обеспечения, жизненного цикла программного обеспечения, управления требованиями;"
+        },
+        "mandatory": true,
+        "id": "6724e32774d610d7531c239d"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of development methods (unit testing, code validation), using TDD - TFS, GIT, DevOps (CI/CD);",
+          "ru": "Знание практиков разработки (модульное тестирование, проверка кода), предпочтительно TDD - TFS, GIT, DevOps (CI/CD);"
+        },
+        "mandatory": true,
+        "id": "6724e32774d610d7531c239e"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of development practitioners (unit testing, code review), preferably TDD - TFS, GIT, DevOps (CI/CD);",
+          "ru": "Знание практиков разработки (модульное тестирование, просмотр кода), предпочтительно TDD - TFS, GIT, DevOps (CI/CD);"
+        },
+        "mandatory": true,
+        "id": "6724e32774d610d7531c239f"
+      },
+      {
+        "requirement": {
+          "en": "Experience working in a team on agile methodologies (Scrum);",
+          "ru": "Опыт работы в команде по гибким методологиям (Scrum);"
+        },
+        "mandatory": false,
+        "id": "6724e32774d610d7531c23a0"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of Delphi (components, OLE, COM, DCOM, JSON, XML, SOAP, three-tier architecture in IIS).",
+          "ru": "Знание Delphi (компоненты, OLE, COM, DCOM, JSON, XML, SOAP, трехуровневая архитектура в IIS)."
+        },
+        "mandatory": false,
+        "id": "6724e32774d610d7531c23a1"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Participation in team Scrum events (day meetings, planning, retrospective, demonstrations, grooming, etc.);",
+          "ru": "Участие в командных Scrum-мероприятиях (дневные встречи, планирование, ретроспектива, демонстрации, груминг и т.д.);"
+        },
+        "id": "6724e32774d610d7531c23a2"
+      },
+      {
+        "name": {
+          "en": "Development in PL/SQL, SQL;",
+          "ru": "Разработка на PL/SQL, SQL;"
+        },
+        "id": "6724e32774d610d7531c23a3"
+      },
+      {
+        "name": {
+          "en": "Development of technical solutions;",
+          "ru": "Разработка технических решений;"
+        },
+        "id": "6724e32774d610d7531c23a4"
+      },
+      {
+        "name": {
+          "en": "Code verification, approval of extraction requests.",
+          "ru": "Проверка кода, утверждение запросов на извлечение."
+        },
+        "id": "6724e32774d610d7531c23a5"
+      }
+    ],
+    "description": {
+      "en": "Insurance for those traveling abroad, financial risks, accident insurance.  Transferring logic from Oracle to new stacks. Preferably, the candidate's location is Moscow (but candidates from the regions are possible) Project/team release date: As soon as possible.",
+      "ru": "Страхование выезжающих за рубеж, финансовые риски, страхование от несчастных случаев.  Перенос логики из Oracle в новые стеки. Предпочтительно место нахождения кандидата - Москва (но возможны кандидаты из регионов) Дата выхода проекта/команды: Как можно скорее."
+    },
+    "industry": "671013f7bda14420a6b7ac06",
+    "specialization": "671013f6bda14420a6b7aab7",
+    "grades": [
+      "6641efd5ac0c70406a0eb262"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724e32774d610d7531c23a6"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "Oracle developer",
+      "ru": "Oracle разработчик"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6724e3806fa02b99fe3c3446"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:19:44.758Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T06:57:51.295Z"
+    },
+    "externId": "30461",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Work experience as a 1C Architect for at least 5 years;",
+          "ru": "Опыт работы Архитектором 1С от 5 лет;"
+        },
+        "mandatory": true,
+        "id": "6724e38074d610d7531c23b6"
+      },
+      {
+        "requirement": {
+          "en": "Stress tolerance, responsibility, proactivity;",
+          "ru": "Стрессоустойчивость, ответственность, проактивность;"
+        },
+        "mandatory": true,
+        "id": "6724e38074d610d7531c23b7"
+      },
+      {
+        "requirement": {
+          "en": "Participation in the project as a technical architect on the part of the customer;",
+          "ru": "Участие в проекте в роли технического архитектора со стороны заказчика;"
+        },
+        "mandatory": true,
+        "id": "6724e38074d610d7531c23b8"
+      },
+      {
+        "requirement": {
+          "en": "Good communication skills;",
+          "ru": "Хорошие коммуникативные навыки;"
+        },
+        "mandatory": true,
+        "id": "6724e38074d610d7531c23b9"
+      },
+      {
+        "requirement": {
+          "en": "Higher education;",
+          "ru": "Высшее образование;"
+        },
+        "mandatory": true,
+        "id": "6724e38074d610d7531c23ba"
+      },
+      {
+        "requirement": {
+          "en": "A certificate of a programming specialist.",
+          "ru": "Сертификат специалиста по программированию."
+        },
+        "mandatory": true,
+        "id": "6724e38074d610d7531c23bb"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Author's supervision over the development of an EAM solution on the 1C platform;",
+          "ru": "Авторский надзор за разработкой EAM-решения на платформе 1С;"
+        },
+        "id": "6724e38074d610d7531c23bc"
+      },
+      {
+        "name": {
+          "en": "Maintenance and preparation of updates for 1C systems;",
+          "ru": "Сопровождение и подготовка обновлений для систем 1С;"
+        },
+        "id": "6724e38074d610d7531c23bd"
+      },
+      {
+        "name": {
+          "en": "Checking the quality of contractors' code;",
+          "ru": "Проверка качества кода подрядчиков;"
+        },
+        "id": "6724e38074d610d7531c23be"
+      },
+      {
+        "name": {
+          "en": "Performing routine maintenance in 1C;",
+          "ru": "Выполнение регламентных работ в 1С;"
+        },
+        "id": "6724e38074d610d7531c23bf"
+      },
+      {
+        "name": {
+          "en": "Development of exchange mechanisms and services;",
+          "ru": "Разработка механизмов обмена и сервисов;"
+        },
+        "id": "6724e38074d610d7531c23c0"
+      },
+      {
+        "name": {
+          "en": "Administration of accounting systems based on 1C;",
+          "ru": "Администрирование учетных систем на базе 1С;"
+        },
+        "id": "6724e38074d610d7531c23c1"
+      },
+      {
+        "name": {
+          "en": "Participation in testing improvements in 1C;",
+          "ru": "Участие в тестировании доработок в 1С;"
+        },
+        "id": "6724e38074d610d7531c23c2"
+      },
+      {
+        "name": {
+          "en": "Analysis of the performance of information systems.",
+          "ru": "Анализ производительности информационных систем."
+        },
+        "id": "6724e38074d610d7531c23c3"
+      }
+    ],
+    "description": {
+      "en": "The oil and gas industry.",
+      "ru": "Нефтегазовая отрасль."
+    },
+    "industry": null,
+    "specialization": null,
+    "grades": [
+      "6641efe5ac0c70406a0eb279"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "flexible",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724e38074d610d7531c23c4"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "1C Architect",
+      "ru": "Архитектор 1С"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6724e3da6fa02b99fe3c3454"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:21:14.614Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T06:56:54.742Z"
+    },
+    "externId": "28410",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Main programming language - Go (3 years of experience);",
+          "ru": "Основной язык программирования - Go (опыт работы 3 года);"
+        },
+        "mandatory": true,
+        "id": "6724e3da74d610d7531c23d1"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with highly loaded systems;",
+          "ru": "Опыт работы с высоконагруженными системами;"
+        },
+        "mandatory": true,
+        "id": "6724e3da74d610d7531c23d2"
+      },
+      {
+        "requirement": {
+          "en": "Developmentĸexperience in the ĸom team.",
+          "ru": "Опыт разработки в команде разработчиков."
+        },
+        "mandatory": true,
+        "id": "6724e3da74d610d7531c23d3"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of grpc, PostgreSQL, docker, GraphQL;",
+          "ru": "Знание grpc, PostgreSQL, docker, GraphQL;"
+        },
+        "mandatory": false,
+        "id": "6724e3da74d610d7531c23d4"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of python;",
+          "ru": "Знание языка python;"
+        },
+        "mandatory": false,
+        "id": "6724e3da74d610d7531c23d5"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with puppet;",
+          "ru": "Опыт работы с puppet;"
+        },
+        "mandatory": false,
+        "id": "6724e3da74d610d7531c23d6"
+      },
+      {
+        "requirement": {
+          "en": "Experience in deploying kubernetes services.",
+          "ru": "Опыт развертывания сервисов kubernetes."
+        },
+        "mandatory": false,
+        "id": "6724e3da74d610d7531c23d7"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Sharing documents with restricted rights and users;",
+          "ru": "Шаринг документов с ограничением прав и пользователей;"
+        },
+        "id": "6724e3da74d610d7531c23d8"
+      },
+      {
+        "name": {
+          "en": "Make the \"Available to me\" section in the Documents;",
+          "ru": "Сделать раздел \"Доступные мне\" в Документах;"
+        },
+        "id": "6724e3da74d610d7531c23d9"
+      },
+      {
+        "name": {
+          "en": "Make a search for the contents in the file;",
+          "ru": "Сделать поиск по содержимому в файле;"
+        },
+        "id": "6724e3da74d610d7531c23da"
+      },
+      {
+        "name": {
+          "en": "Make it possible to create folders inside a folder.",
+          "ru": "Сделать возможность создавать папки внутри папки."
+        },
+        "id": "6724e3da74d610d7531c23db"
+      }
+    ],
+    "description": {
+      "en": "Documents is a new productivity service for work, study and life, which is a text editor. With our product, you can create and format documents, as well as work with them together with other users. We provide the opportunity to work with different files, provide viewing, storing and editing of different document formats.",
+      "ru": "Документы - новый продуктивити-сервис для работы, учебы и жизни, представляющий из себя текстовый редактор. С помощью нашего продукта можно создавать и форматировать документы, а также работать с ними совместно с другими пользователями. Мы предоставляем возможность работы с разными файлами, обеспечиваем просмотр, хранение и редактирование разного формата документов."
+    },
+    "industry": null,
+    "specialization": "671013f6bda14420a6b7a9ef",
+    "grades": [
+      "6641efe5ac0c70406a0eb279",
+      "67233918e815baaca58a8e96"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 2,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724e3da74d610d7531c23dc"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "Golang developer",
+      "ru": "Golang разработчик"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6724e4356fa02b99fe3c3466"
+    },
+    "createdAt": {
+      "$date": "2024-11-01T14:22:45.759Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-02T06:57:23.968Z"
+    },
+    "externId": "27423",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Candidate age up to 35 years;",
+          "ru": "Возраст кандидата до 35 лет;"
+        },
+        "mandatory": true,
+        "id": "6724e43574d610d7531c23e9"
+      },
+      {
+        "requirement": {
+          "en": "Experience testing with incomplete functional specification;",
+          "ru": "Опыт тестирования с неполной функциональной спецификацией;"
+        },
+        "mandatory": true,
+        "id": "6724e43574d610d7531c23ea"
+      },
+      {
+        "requirement": {
+          "en": "Backend testing experience of 2 years or more;",
+          "ru": "Опыт тестирования бэкенда от 2 лет и более;"
+        },
+        "mandatory": true,
+        "id": "6724e43574d610d7531c23eb"
+      },
+      {
+        "requirement": {
+          "en": "Basic knowledge of network operations;",
+          "ru": "Базовые знания о работе сети;"
+        },
+        "mandatory": true,
+        "id": "6724e43574d610d7531c23ec"
+      },
+      {
+        "requirement": {
+          "en": "Experience in creating test documentation;",
+          "ru": "Опыт создания тестовой документации;"
+        },
+        "mandatory": true,
+        "id": "6724e43574d610d7531c23ed"
+      },
+      {
+        "requirement": {
+          "en": "Ability to competently write bug reports and work with bug tracking systems.",
+          "ru": "Умение грамотно составлять отчеты об ошибках и работать с системами отслеживания ошибок."
+        },
+        "mandatory": true,
+        "id": "6724e43574d610d7531c23ee"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Interacting with support agents for user complaints: processing, researching and logging them;",
+          "ru": "Взаимодействие с агентами службы поддержки в связи с жалобами пользователей: их обработка, исследование и регистрация;"
+        },
+        "id": "6724e43574d610d7531c23ef"
+      },
+      {
+        "name": {
+          "en": "Updating and registration of found defects in the bug tracker from beta testers, control of their fixing;",
+          "ru": "Обновление и регистрация найденных дефектов в баг-трекере от бета-тестеров, контроль их устранения;"
+        },
+        "id": "6724e43574d610d7531c23f0"
+      },
+      {
+        "name": {
+          "en": "Updating and logging defects from development and testing colleagues, overseeing their correction;",
+          "ru": "Обновление и регистрация дефектов, полученных от коллег по разработке и тестированию, контроль за их исправлением;"
+        },
+        "id": "6724e43574d610d7531c23f1"
+      },
+      {
+        "name": {
+          "en": "Writing autotests for bugs found, to make it easier to track the relevance of the defect;",
+          "ru": "Написание автотестов на обнаруженные ошибки, чтобы было проще отслеживать актуальность дефекта;"
+        },
+        "id": "6724e43574d610d7531c23f2"
+      },
+      {
+        "name": {
+          "en": "Assigning tasks to the automation team.",
+          "ru": "Назначение задач группе автоматизации."
+        },
+        "id": "6724e43574d610d7531c23f3"
+      }
+    ],
+    "description": {
+      "en": "Project for a large media platform. Interview stages: 1. HR screening of the client; 2. Technical interview with the lead; 3. Final with the team. The proposed candidate must necessarily be available for the next stage of consideration within 3 working days from the date of the previous stage.",
+      "ru": "Проект для крупной медиа-платформы. Этапы собеседования: 1. Кадровый отбор клиента; 2. Техническое собеседование с ведущим; 3. Финальное с командой. Предложенный кандидат обязательно должен быть доступен для следующего этапа рассмотрения в течение 3 рабочих дней с даты предыдущего этапа."
+    },
+    "industry": "671013f7bda14420a6b7ac06",
+    "specialization": "671013f6bda14420a6b7aaad",
+    "grades": [
+      "6641efd5ac0c70406a0eb262"
+    ],
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 6,
+      "to": 12
+    },
+    "workFormat": "remote",
+    "requiredCitizenship": [
+      {
+        "name": "6662e6a6de470324976b1beb",
+        "id": "6724e43574d610d7531c23f4"
+      }
+    ],
+    "status": "created",
+    "__v": 0,
+    "country": "6662e6a6de470324976b1beb",
+    "name": {
+      "en": "QA is manual",
+      "ru": "QA ручной"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6735cd24fa10a61a1c5b4e0d"
+    },
+    "name": {
+      "en": "PHP developer",
+      "ru": "PHP разработчик"
+    },
+    "top": false,
+    "externId": "110295511",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Experience with PHP 7.4+ for more than 3 years;",
+          "ru": "Опыт PHP 7.4+от 3-х лет;"
+        },
+        "mandatory": true,
+        "id": "6735cd24c2107f004ea52148"
+      },
+      {
+        "requirement": {
+          "en": "Basic knowledge of algorithms and data structures;",
+          "ru": "Базовое знание алгоритмов и структур данных;"
+        },
+        "mandatory": true,
+        "id": "6735cd24c2107f004ea52149"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with databases (SQL/NoSql);",
+          "ru": "Опыт работы с БД (SQL/NoSql);"
+        },
+        "mandatory": true,
+        "id": "6735cd24c2107f004ea5214a"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with legacy code;",
+          "ru": "Опыт работы с legacy кодом;"
+        },
+        "mandatory": true,
+        "id": "6735cd24c2107f004ea5214b"
+      },
+      {
+        "requirement": {
+          "en": "Experience designing and developing HTTP APIs;",
+          "ru": "Опыт проектирования и разработки HTTP API;"
+        },
+        "mandatory": true,
+        "id": "6735cd24c2107f004ea5214c"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with clean PHP code.",
+          "ru": "Опыт работы с чистым PHP-кодом."
+        },
+        "mandatory": true,
+        "id": "6735cd24c2107f004ea5214d"
+      },
+      {
+        "requirement": {
+          "en": "Experience working on large projects (Highload, extensive codebase);",
+          "ru": "Опыт работы с крупными проектами (Highload, обширная кодовая база);"
+        },
+        "mandatory": true,
+        "id": "6735cd24c2107f004ea5214e"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with NodeJs.",
+          "ru": "Опыт работы с NodeJs."
+        },
+        "mandatory": true,
+        "id": "6735cd24c2107f004ea5214f"
+      }
+    ],
+    "tasks": [
+      {
+        "name": {
+          "en": "Analysis of legacy code base and migration of existing solutions to new infrastructure;",
+          "ru": "Анализ legacy кодовой базы и перенос существующих решений на новую инфраструктуру;"
+        },
+        "id": "6735cd24c2107f004ea52150"
+      },
+      {
+        "name": {
+          "en": "Design and development of new tools;",
+          "ru": "Проектирование и разработка новых инструментов;"
+        },
+        "id": "6735cd24c2107f004ea52151"
+      },
+      {
+        "name": {
+          "en": "Coverage of code base with unit tests;",
+          "ru": "Покрытие кодовой базы unit тестами;"
+        },
+        "id": "6735cd24c2107f004ea52152"
+      },
+      {
+        "name": {
+          "en": "Participation in code review process;",
+          "ru": "Участие в процессе code review;"
+        },
+        "id": "6735cd24c2107f004ea52153"
+      },
+      {
+        "name": {
+          "en": "Communication management (including cross-team);",
+          "ru": "Ведение коммуникаций (в том числе кросс-командных);"
+        },
+        "id": "6735cd24c2107f004ea52154"
+      },
+      {
+        "name": {
+          "en": "Design and development of HTTP API SPA application.",
+          "ru": "Проектирование и разработка HTTP API SPA приложения."
+        },
+        "id": "6735cd24c2107f004ea52155"
+      }
+    ],
+    "description": {
+      "en": "<strong>Tasks:</strong> <ul> <li>Analysis of legacy code base and migration of existing solutions to new infrastructure;</li> <li>Design and development of new tools;</li> <li>Coverage of code base with unit tests;</li> <li>Participation in code review process;</li> <li>Communication management (including cross-team);</li> <li>Design and development of HTTP API SPA application.</li> </ul> <strong>Requirements:</strong> <ul> <li>Experience with PHP 7.4+ for more than 3 years;</li> <li>Basic knowledge of algorithms and data structures;</li> <li>Experience working with databases (SQL/NoSql);</li> <li>Experience working with legacy code;</li> <li>Experience designing and developing HTTP API;</li> <li>Experience working with clean PHP code.</li> <li>Experience working on large projects (Highload, extensive codebase);</li> <li>Experience working with NodeJs.</li> </ul> <strong>Conditions:</strong> <ul> <li>Official employment;</li> <li>Accredited IT Company</li> </ul>",
+      "ru": "<strong>Задачи:</strong> <ul> <li>Анализ legacy кодовой базы и перенос существующих решений на новую инфраструктуру;</li> <li>Проектирование и разработка новых инструментов;</li> <li>Покрытие кодовой базы unit тестами;</li> <li>Участие в процессе code review;</li> <li>Ведение коммуникаций (в том числе кросс-командных);</li> <li>Проектирование и разработка HTTP API SPA приложения.</li> </ul> <strong>Требования:</strong> <ul> <li>Опыт PHP 7.4+от 3-х лет;</li> <li>Базовое знание алгоритмов и структур данных;</li> <li>Опыт работы с БД (SQL/NoSql);</li> <li>Опыт работы с legacy кодом;</li> <li>Опыт проектирования и разработки HTTP API;</li> <li>Опыт работы с чистым PHP-кодом.</li> <li>Опыт работы с крупными проектами (Highload, обширная кодовая база);</li> <li>Опыт работы с NodeJs.</li> </ul> <strong>Условия:</strong> <ul> <li>Официальное трудоустройство;</li> <li>Аккредитованная ИТ-Компания</li> </ul>"
+    },
+    "industry": "671013f7bda14420a6b7ac0a",
+    "specialization": "671013f7bda14420a6b7ac0a",
+    "grades": [
+      "6641efe5ac0c70406a0eb279"
+    ],
+    "amount": 200000,
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "city": "66680e8a8924aeb130be3cd5",
+    "status": "created",
+    "createdAt": {
+      "$date": "2024-11-14T10:12:52.321Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-14T10:12:56.349Z"
+    },
+    "__v": 0,
+    "requiredCitizenship": []
+  },
+  {
+    "_id": {
+      "$oid": "6735cd28fa10a61a1c5b4e19"
+    },
+    "name": {
+      "ru": "QA ручной"
+    },
+    "top": false,
+    "externId": "110171906",
+    "requirements": [
+      {
+        "requirement": {
+          "ru": "Наличие опыта тестировщика от 2,5 лет;"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea52162"
+      },
+      {
+        "requirement": {
+          "ru": "Опыт работы с REST API (Postman, Swagger), Kibana, Elasticsearch, Kafka, MS SQL;"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea52163"
+      },
+      {
+        "requirement": {
+          "ru": "Умение писать простые SQL-запросы, готовы продемонстрировать это на собеседовании;"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea52164"
+      },
+      {
+        "requirement": {
+          "ru": "Знания теории тестирования и техник тест-дизайна и умение применять на практике;"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea52165"
+      },
+      {
+        "requirement": {
+          "ru": "Опыт в тестировании Десктоп приложений (фронт);"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea52166"
+      },
+      {
+        "requirement": {
+          "ru": "Имеете активную жизненную позицию, не боитесь предлагать и внедрять изменения;"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea52167"
+      },
+      {
+        "requirement": {
+          "ru": "Готовы к работе, которая предполагает постоянное взаимодействие с другими командами для достижения общей цели;"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea52168"
+      },
+      {
+        "requirement": {
+          "ru": "Умеете собирать логи;"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea52169"
+      },
+      {
+        "requirement": {
+          "ru": "Опыт работы в сфере инвестиций, в банковской сфере или брокерской компании;"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea5216a"
+      },
+      {
+        "requirement": {
+          "ru": "Проактивность, интерес в сфере информационных технологий;"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea5216b"
+      },
+      {
+        "requirement": {
+          "ru": "Опыт написания автотестов (java);"
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea5216c"
+      },
+      {
+        "requirement": {
+          "ru": "Высшее образование."
+        },
+        "mandatory": true,
+        "id": "6735cd28c2107f004ea5216d"
+      }
+    ],
+    "tasks": [],
+    "description": {
+      "ru": "<strong>Задачи на проекте:</strong> <ul> <li>Проверка соответствия документации программного продукта принятым стандартам;</li> <li>Анализ требований, подготовка тестовой документации и данных (тест-кейсы, планы тестирования, чек-листы);</li> <li>Проведение функционального, регрессионного и интеграционного тестирования;</li> <li>Обнаружение, локализация и фиксирование дефектов в функционировании программных продуктов;</li> <li>Формирование bug reports в bug-трекинговой системе;</li> <li>Участие в совместных с другими подразделениями мероприятиях по тестированию интеграционной функциональности.</li> <li> </li> </ul> <strong>Требования:</strong> <ul> <li>Наличие опыта тестировщика от 2,5 лет;</li> <li>Опыт работы с REST API (Postman, Swagger), Kibana, Elasticsearch, Kafka, MS SQL;</li> <li>Умение писать простые SQL-запросы, готовы продемонстрировать это на собеседовании;</li> <li>Знания теории тестирования и техник тест-дизайна и умение применять на практике;</li> <li>Опыт в тестировании Десктоп приложений (фронт);</li> <li>Имеете активную жизненную позицию, не боитесь предлагать и внедрять изменения;</li> <li>Готовы к работе, которая предполагает постоянное взаимодействие с другими командами для достижения общей цели;</li> <li>Умеете собирать логи;</li> <li>Опыт работы в сфере инвестиций, в банковской сфере или брокерской компании;</li> <li>Проактивность, интерес в сфере информационных технологий;</li> <li>Опыт написания автотестов (java);</li> <li>Высшее образование.</li> <li> </li> </ul> <strong>Условия:</strong> <ul> <li>Удаленный формат работы;</li> <li>Аккредитованная ИТ-Компания.</li> </ul> <p> </p>"
+    },
+    "industry": "671013f7bda14420a6b7ac0a",
+    "specialization": "671013f7bda14420a6b7ac0a",
+    "grades": [
+      "6641efd5ac0c70406a0eb262"
+    ],
+    "amount": 200000,
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "city": "66680e8a8924aeb130be3cd5",
+    "status": "created",
+    "createdAt": {
+      "$date": "2024-11-14T10:12:56.384Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-14T10:12:56.384Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6735cd2cfa10a61a1c5b4e22"
+    },
+    "name": {
+      "en": "Android developer",
+      "ru": "Android-разработчик"
+    },
+    "top": false,
+    "externId": "110167494",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Commercial experience in developing Android applications for more than 3 years;",
+          "ru": "Коммерческий опыт разработки Android приложений более 3 лет;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea5217a"
+      },
+      {
+        "requirement": {
+          "en": "Experience working in a team of 5+ developers;",
+          "ru": "Опыт работы в команде из 5+ разработчиков;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea5217b"
+      },
+      {
+        "requirement": {
+          "en": "Deep understanding of Android SDK;",
+          "ru": "Глубокое понимание Android SDK;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea5217c"
+      },
+      {
+        "requirement": {
+          "en": "Understanding Clean Architecture;",
+          "ru": "Понимание Clean Architecture;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea5217d"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of MV* patterns, design patterns, and architectures;",
+          "ru": "Знание MV* паттернов, паттернов проектирования и архитектур;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea5217e"
+      },
+      {
+        "requirement": {
+          "en": "Understanding of multi-module application architecture;",
+          "ru": "Понимание многомодульной архитектуры приложения;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea5217f"
+      },
+      {
+        "requirement": {
+          "en": "Ability to write Unit tests;",
+          "ru": "Умение писать Unit тесты;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea52180"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with Dagger2, RxJava, Coroutines, Navigation Compone.",
+          "ru": "Опыт работы с Dntagger2, RxJava, Coroutines, Navigation Compone."
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea52181"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with WebSockets;",
+          "ru": "Опыт работы с WebSockets;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea52182"
+      },
+      {
+        "requirement": {
+          "en": "Experience working with Compose;",
+          "ru": "Опыт работы с Compose;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea52183"
+      },
+      {
+        "requirement": {
+          "en": "Ability to work and configure CI/CD;",
+          "ru": "Умение работы и настройки CI/CD;"
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea52184"
+      },
+      {
+        "requirement": {
+          "en": "Understanding and experience working with Server Driven UI; Experience in writing UI and Snapshot tests.",
+          "ru": "Понимание и опыт работы с Server Driven UI; Опыт написания UI и Snapshot тестов."
+        },
+        "mandatory": true,
+        "id": "6735cd2cc2107f004ea52185"
+      }
+    ],
+    "tasks": [],
+    "description": {
+      "en": "<strong>Project tasks:</strong> <ul> <li>Working on product tasks within feature teams;</li> <li>Developing interesting technical parts of the project;</li> <li>Conducting Code Review;</li> <li>Improving architecture and making technical decisions with the team;</li> <li>participate in decision-making process of development.</li> </ul> <strong>Requirements:</strong> <ul> <li>Commercial experience in developing Android applications for more than 3 years;</li> <li>Experience working in a team of 5+ developers;</li> <li>Deep understanding of Android SDK;</li> <li>Understanding Clean Architecture;</li> <li>Knowledge of MV* patterns, design patterns, and architectures;</li> <li>Understanding of multi-module application architecture;</li> <li>Ability to write Unit tests;</li> <li>Experience working with Dagger2, RxJava, Coroutines, Navigation Compone.</li> <li>Experience working with WebSockets;</li> <li>Experience working with Compose;</li> <li>Ability to work and configure CI/CD;</li> <li>Understanding and experience working with Server Driven UI; Experience in writing UI and Snapshot tests.</li> </ul> <strong>Conditions:</strong> <ul> <li>Remote work format;</li> <li>Accredited Company.</li> <li> </li> </ul>",
+      "ru": "<strong>Задачи на проекте:</strong> <ul> <li>Работа над продуктовыми задачами внутри фича-команд;</li> <li>Развитие интересных вам технических частей проекта;</li> <li>Проведение Code Review;</li> <li>Улучшение архитектуры и принятие технических решений вместе с командой;</li> <li>участвовать в принятии решений процесса разработки.</li> </ul> <strong>Требования:</strong> <ul> <li>Коммерческий опыт разработки Android приложений более 3 лет;</li> <li>Опыт работы в команде из 5+ разработчиков;</li> <li>Глубокое понимание Android SDK;</li> <li>Понимание Clean Architecture;</li> <li>Знание MV* паттернов, паттернов проектирования и архитектур;</li> <li>Понимание многомодульной архитектуры приложения;</li> <li>Умение писать Unit тесты;</li> <li>Опыт работы с Dntagger2, RxJava, Coroutines, Navigation Compone.</li> <li>Опыт работы с WebSockets;</li> <li>Опыт работы с Compose;</li> <li>Умение работы и настройки CI/CD;</li> <li>Понимание и опыт работы с Server Driven UI; Опыт написания UI и Snapshot тестов.</li> </ul> <strong>Условия:</strong> <ul> <li>Удаленный формат работы;</li> <li>Аккредитованная Компания.</li> <li> </li> </ul>"
+    },
+    "industry": "671013f7bda14420a6b7ac02",
+    "specialization": "671013f7bda14420a6b7ac02",
+    "grades": [
+      "6641efe5ac0c70406a0eb279"
+    ],
+    "amount": 250000,
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "city": "66680e8a8924aeb130be3cd5",
+    "status": "created",
+    "createdAt": {
+      "$date": "2024-11-14T10:13:00.780Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-14T10:13:05.923Z"
+    },
+    "__v": 0,
+    "requiredCitizenship": []
+  },
+  {
+    "_id": {
+      "$oid": "6735cd31fa10a61a1c5b4e2e"
+    },
+    "name": {
+      "en": "Oracle developer",
+      "ru": "Oracle разработчик"
+    },
+    "top": false,
+    "externId": "110155706",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Development of complex business logic in PL/SQL;",
+          "ru": "Разработка сложной бизнес-логики на PL/SQL;"
+        },
+        "mandatory": true,
+        "id": "6735cd31c2107f004ea5218c"
+      },
+      {
+        "requirement": {
+          "en": "Development of applications in Delphi;",
+          "ru": "Разработка приложений на Delphi;"
+        },
+        "mandatory": true,
+        "id": "6735cd31c2107f004ea5218d"
+      },
+      {
+        "requirement": {
+          "en": "Participation in joint decision-making with the team;",
+          "ru": "Участие в совместной выработке решений с командой;"
+        },
+        "mandatory": true,
+        "id": "6735cd31c2107f004ea5218e"
+      },
+      {
+        "requirement": {
+          "en": "Elimination of technical debt;",
+          "ru": "Устранение технического долга;"
+        },
+        "mandatory": true,
+        "id": "6735cd31c2107f004ea5218f"
+      },
+      {
+        "requirement": {
+          "en": "Work on incidents and provision of consultations as third line support;",
+          "ru": "Работа над инцидентами и предоставление консультаций как третья линия поддержки;"
+        },
+        "mandatory": true,
+        "id": "6735cd31c2107f004ea52190"
+      },
+      {
+        "requirement": {
+          "en": "Code review.",
+          "ru": "Проведение код-ревью."
+        },
+        "mandatory": true,
+        "id": "6735cd31c2107f004ea52191"
+      }
+    ],
+    "tasks": [],
+    "description": {
+      "en": "<strong>Responsibilities:</strong> <ul> <li>Higher education;</li> <li>3 years of work experience;</li> <li>Knowledge of Oracle 11g/12c: SQL, PL/SQL, writing packages and other elements of stored logic, applying analytical and aggregate functions, working with collections, objects, and queues (OAQ);</li> <li>Experience with Delphi 7 / XE: GUI development, working with interfaces, three-tier architecture, using Win32 API, as well as using DAO and ODAC components to work with databases, MIDAS;</li> <li>Experience with large data volumes and query optimization and procedural code; -Knowledge of XML/XSLT/JSON/HTML and experience working with web services (WSDL, SOAP, REST);</li> <li>Experience with Postgre or a willingness to learn this DBMS; -Experience with Camunda, Platformeco (process orchestrators) or a desire to develop in this direction; </li> <li>Experience with Kafka and skills working in the ELK stack (Kibana, Elasticsearch); -Knowledge of database design theory and practice, as well as development patterns and refactoring;</li> <li>Experience developing in corporate information system support conditions; -Ability to read and analyze someone else's code, reconstruct the logic of existing code;</li> <li>Experience with version control systems (GIT) and tools (PL/SQL Developer, SQL Developer, TOAD, pgAdmin, DBeaver, SQLPlus, Team Foundation Server (TFS), GITExtensions);</li> <li>Experience working in a team and theoretical/practical experience with Agile methodologies (SAFE / Scrum / Kanban); </li> <li>Ability to read UML and ER diagrams.</li> </ul> <p> </p> <strong>Requirements:</strong> <ul> <li>Development of complex business logic in PL/SQL;</li> <li>Development of applications in Delphi;</li> <li>Participation in joint decision-making with the team;</li> <li>Elimination of technical debt; </li> <li>Work on incidents and provision of consultations as third line support;</li> <li>Code review.</li> </ul> <strong>Conditions:</strong> <ul> <li>Remote work format;</li> <li>Accredited IT Company.</li> </ul>",
+      "ru": "<strong>Обязанности:</strong> <ul> <li>Высшее образование;</li> <li> Опыт работы от 3 лет;</li> <li>Знание Oracle 11g/12c: SQL, PL/SQL, написание пакетов и других элементов хранимой логики, применение аналитических и групповых функций, работа с коллекциями, объектами и очередями (OAQ);</li> <li>Опыт работы с Delphi 7 / XE: разработка GUI, работа с интерфейсами, трёхуровневая архитектура, использование Win32 API, а также применение компонентов DAO и ODAC для работы с СУБД, MIDAS;</li> <li>Опыт работы с большими объёмами данных и оптимизации запросов и процедурного кода; -Знание XML/XSLT/JSON/HTML и опыт работы с веб-сервисами (WSDL, SOAP, REST);</li> <li>Опыт работы с Postgre или желание изучить эту СУБД; - Опыт работы с Camunda, Platformeco (оркестраторы процессов) или желание развиваться в этом направлении; </li> <li>Опыт работы с Kafka и навыки работы в ELK stack (Kibana, Elasticsearch); - Знание теории и практика проектирования баз данных, а также паттернов разработки и рефакторинга;</li> <li>Опыт разработки в условиях поддержки корпоративных информационных систем; - Умение читать и анализировать чужой код, восстанавливать логику работы по существующему коду;</li> <li>Опыт работы с версионными системами (GIT) и инструментами (PL/SQL Developer, SQL Developer, TOAD, pgAdmin, DBeaver, SQLPlus, Team Foundation Server (TFS), GITExtensions);</li> <li>Опыт работы в команде и теоретический/практический опыт работы по методологиям Agile (SAFE / Scrum / Kanban); </li> <li>Умение читать UML и ER-диаграммы.</li> </ul> <p> </p> <strong>Требования:</strong> <ul> <li>Разработка сложной бизнес-логики на PL/SQL;</li> <li>Разработка приложений на Delphi;</li> <li>Участие в совместной выработке решений с командой;</li> <li>Устранение технического долга; </li> <li>Работа над инцидентами и предоставление консультаций как третья линия поддержки;</li> <li>Проведение код-ревью.</li> </ul> <strong>Условия:</strong> <ul> <li>Удаленный формат работы;</li> <li>Аккредитаованная ИТ-Компания.</li> </ul>"
+    },
+    "industry": null,
+    "specialization": "671013f6bda14420a6b7aad0",
+    "grades": [
+      "6641efd5ac0c70406a0eb262"
+    ],
+    "amount": 170000,
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "city": "66680e8a8924aeb130be3cd5",
+    "status": "created",
+    "createdAt": {
+      "$date": "2024-11-14T10:13:05.955Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-14T10:13:12.114Z"
+    },
+    "__v": 0,
+    "requiredCitizenship": []
+  },
+  {
+    "_id": {
+      "$oid": "6735cd38fa10a61a1c5b4e39"
+    },
+    "name": {
+      "en": "Data Scientist",
+      "ru": "Data Scientist"
+    },
+    "top": false,
+    "externId": "110151725",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "At least 3 years of experience working as an ML Engineer or equivalent",
+          "ru": "Не менее 3 лет опыта работы в роли ML Engineer или аналогичной"
+        },
+        "mandatory": true,
+        "id": "6735cd38c2107f004ea5219b"
+      },
+      {
+        "requirement": {
+          "en": "Advanced knowledge of Python and SQL;",
+          "ru": "Продвинутые знания Python и SQL;"
+        },
+        "mandatory": true,
+        "id": "6735cd38c2107f004ea5219c"
+      },
+      {
+        "requirement": {
+          "en": "Experience with ML development frameworks (PyTorch, TensorFlow);",
+          "ru": "Опыт работы с фреймворками для разработки ML (PyTorch, TensorFlow);"
+        },
+        "mandatory": true,
+        "id": "6735cd38c2107f004ea5219d"
+      },
+      {
+        "requirement": {
+          "en": "Strong knowledge of Apache Hadoop and experience with Apache Spark for processing large volumes of data;",
+          "ru": "Уверенные знания Apache Hadoop и опыт работы с Apache Spark для обработки больших объемов данных;"
+        },
+        "mandatory": true,
+        "id": "6735cd38c2107f004ea5219e"
+      },
+      {
+        "requirement": {
+          "en": "Experience with containerization (Docker, Kubernetes) and CI/CD (Jenkins, GitLab);",
+          "ru": "Опыт работы с контейнеризацией (Docker, Kubernetes) и CI/CD (Jenkins, GitLab);"
+        },
+        "mandatory": true,
+        "id": "6735cd38c2107f004ea5219f"
+      },
+      {
+        "requirement": {
+          "en": "Higher technical education in computer science or a related field;",
+          "ru": "Высшее техническое образование в области информатики или смежной области;"
+        },
+        "mandatory": true,
+        "id": "6735cd38c2107f004ea521a0"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of Scala and experience with Spark Streaming;",
+          "ru": "Знание Scala и опыт работы с Spark Streaming;"
+        },
+        "mandatory": true,
+        "id": "6735cd38c2107f004ea521a1"
+      },
+      {
+        "requirement": {
+          "en": "Experience with streaming data processing systems (Kafka, Flink);",
+          "ru": "Опыт с системами обработки потоковых данных (Kafka, Flink);"
+        },
+        "mandatory": true,
+        "id": "6735cd38c2107f004ea521a2"
+      },
+      {
+        "requirement": {
+          "en": "Experience in an Agile environment and project management.",
+          "ru": "Опыт работы в Agile-среде и участия в управлении проектами."
+        },
+        "mandatory": true,
+        "id": "6735cd38c2107f004ea521a3"
+      }
+    ],
+    "tasks": [],
+    "description": {
+      "en": "<strong>Requirements:</strong> <ul> <li> <p>At least 3 years of experience working as an ML Engineer or equivalent</p> </li> <li> <p>Advanced knowledge of Python and SQL;</p> </li> <li> <p>Experience with ML development frameworks (PyTorch, TensorFlow);</p> </li> <li> <p>Strong knowledge of Apache Hadoop and experience with Apache Spark for processing large volumes of data;</p> </li> <li> <p>Experience with containerization (Docker, Kubernetes) and CI/CD (Jenkins, GitLab);</p> </li> <li> <p>Higher technical education in computer science or a related field;</p> </li> <li> <p>Knowledge of Scala and experience with Spark Streaming;</p> </li> <li> <p>Experience with streaming data processing systems (Kafka, Flink);</p> </li> <li> <p>Experience in an Agile environment and project management.</p> </li> </ul> <strong>Responsibilities:</strong> <ul> <li>Development and implementation of production ML models, including SOTA models based on transformers;</li> <li>Optimization and support of infrastructure for deploying and scaling ML models;</li> <li>Participation in the creation and support of CI/CD processes for automating the deployment of ML solutions;</li> <li>Work on system architecture, including integration with existing solutions and technology selection;</li> <li>Conducting code reviews and testing to ensure code and solution quality;</li> <li>Support for the performance and monitoring of ML models in real-world operating conditions.</li> </ul> <strong>Conditions:</strong> <ul> <li>Remote work;</li> <li>Employment in accordance with the Labor Code of the Russian Federation.</li> <li>Accredited IT Company.</li> </ul>",
+      "ru": "<strong>Требования:</strong> <ul> <li> <p>Не менее 3 лет опыта работы в роли ML Engineer или аналогичной</p> </li> <li> <p>Продвинутые знания Python и SQL;</p> </li> <li> <p>Опыт работы с фреймворками для разработки ML (PyTorch, TensorFlow);</p> </li> <li> <p>Уверенные знания Apache Hadoop и опыт работы с Apache Spark для обработки больших объемов данных;</p> </li> <li> <p>Опыт работы с контейнеризацией (Docker, Kubernetes) и CI/CD (Jenkins, GitLab);</p> </li> <li> <p>Высшее техническое образование в области информатики или смежной области;</p> </li> <li> <p>Знание Scala и опыт работы с Spark Streaming;</p> </li> <li> <p>Опыт с системами обработки потоковых данных (Kafka, Flink);</p> </li> <li> <p>Опыт работы в Agile-среде и участия в управлении проектами.</p> </li> </ul> <strong>Функционал:</strong> <ul> <li>Разработка и внедрение производственных ML-моделей, включая SOTA модели на основе трансформеров;</li> <li>Оптимизация и поддержка инфраструктуры для развертывания ML-моделей и их масштабирования;</li> <li>Участие в создании и поддержке CI/CD процессов для автоматизации развертывания ML-решений;</li> <li>Работа над архитектурой систем, включая интеграцию с существующими решениями и выбор технологий;</li> <li>Проведение код-ревью и тестирования для обеспечения качества кода и решений;</li> <li>Поддержка производительности и мониторинг ML-моделей в реальных условиях эксплуатации.</li> </ul> <strong>Условия:</strong> <ul> <li>Удаленная работа;</li> <li>Оформление по ТК РФ.</li> <li>Аккредитованная ИТ Компания.</li> </ul>"
+    },
+    "industry": null,
+    "specialization": "671013f6bda14420a6b7a9e0",
+    "grades": [
+      "6641efd5ac0c70406a0eb262"
+    ],
+    "amount": 170000,
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "city": "66680e8a8924aeb130be3cd5",
+    "status": "created",
+    "createdAt": {
+      "$date": "2024-11-14T10:13:12.141Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-14T10:13:16.746Z"
+    },
+    "__v": 0,
+    "requiredCitizenship": []
+  },
+  {
+    "_id": {
+      "$oid": "6735cd3cfa10a61a1c5b4e44"
+    },
+    "name": {
+      "en": "Directum RX Consultant",
+      "ru": "Консультант Directum RX"
+    },
+    "top": false,
+    "externId": "110145761",
+    "requirements": [
+      {
+        "requirement": {
+          "en": "Higher education;",
+          "ru": "Высшее образование;"
+        },
+        "mandatory": true,
+        "id": "6735cd3cc2107f004ea521a9"
+      },
+      {
+        "requirement": {
+          "en": "Knowledge of Directum RX platform for at least 1 year;",
+          "ru": "Знание платформы Directum RX от 1 года;"
+        },
+        "mandatory": true,
+        "id": "6735cd3cc2107f004ea521aa"
+      },
+      {
+        "requirement": {
+          "en": "Possession of certificates such as: Certified Directum User;",
+          "ru": "Наличие сертификатов вида: Сертифицированный пользователь Directum;"
+        },
+        "mandatory": true,
+        "id": "6735cd3cc2107f004ea521ab"
+      },
+      {
+        "requirement": {
+          "en": "Certified Directum RX configuration specialist;",
+          "ru": "Сертифицированный специалист по настройке Directum RX;"
+        },
+        "mandatory": true,
+        "id": "6735cd3cc2107f004ea521ac"
+      },
+      {
+        "requirement": {
+          "en": "MAU from the candidate's experience in recent projects.",
+          "ru": "MAU последних проектов из опыта кандидата."
+        },
+        "mandatory": true,
+        "id": "6735cd3cc2107f004ea521ad"
+      }
+    ],
+    "tasks": [],
+    "description": {
+      "en": "<strong>Requirements:</strong> <ul> <li>Higher education;</li> <li>Knowledge of Directum RX platform for at least 1 year;</li> <li>Possession of certificates such as: Certified Directum User;</li> <li>Certified Directum RX configuration specialist;</li> <li>MAU from the candidate's experience in recent projects.</li> </ul> <strong>Project tasks:</strong> <ul> <li>Consulting users on configured functionality in the system;</li> <li>Training the customer on system operation;</li> <li>Testing system configuration and modifications;</li> <li>Revising user instructions for system operation.</li> </ul>",
+      "ru": "<strong>Требования:</strong> <ul> <li>Высшее образование;</li> <li>Знание платформы Directum RX от 1 года;</li> <li>Наличие сертификатов вида: Сертифицированный пользователь Directum;</li> <li>Сертифицированный специалист по настройке Directum RX;</li> <li>MAU последних проектов из опыта кандидата.</li> </ul> <strong>Задачи на проекте:</strong> <ul> <li>Консультирование пользователей по настроенному функционалу в системе;</li> <li>Обучение заказчика работе с системой;</li> <li>Тестирование настройки и модификации системы;</li> <li>Доработка пользовательских инструкций по работе в системе.</li> </ul>"
+    },
+    "industry": "671013f7bda14420a6b7abe6",
+    "specialization": "671013f7bda14420a6b7abe6",
+    "grades": [
+      "6641efd5ac0c70406a0eb262"
+    ],
+    "amount": 170000,
+    "currency": "RUB",
+    "numberOfSpecialists": 1,
+    "attractionPeriod": {
+      "from": 0
+    },
+    "workFormat": "remote",
+    "city": "66680e8a8924aeb130be3cd5",
+    "status": "created",
+    "createdAt": {
+      "$date": "2024-11-14T10:13:16.765Z"
+    },
+    "updatedAt": {
+      "$date": "2024-11-14T10:13:19.083Z"
+    },
+    "__v": 0,
+    "requiredCitizenship": []
+  }
+]
